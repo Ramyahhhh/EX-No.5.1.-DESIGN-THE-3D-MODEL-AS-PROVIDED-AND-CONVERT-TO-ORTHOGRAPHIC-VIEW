@@ -25,7 +25,9 @@ To create a 2D engineering drawing sheet containing the principal orthographic v
 ## STEP-2: 
    Select Create Sketch on the XY plane, draw the slotted base flange and mounting lugs using Line, Circle, and Trim tools, and click Finish Sketch.
 
-    <img width="287" height="292" alt="image" src="https://github.com/user-attachments/assets/f966946b-d064-42ee-8b5a-5f178ab179c1" />
+
+    <img width="626" height="341" alt="image" src="https://github.com/user-attachments/assets/fd660fde-b455-4c72-b514-20e42bef8667" />
+
 
 ## STEP-3: 
    Use the Extrude command to convert the base flange sketch into a 3D solid body of the specified thickness.

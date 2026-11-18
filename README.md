@@ -21,9 +21,9 @@ To create a 2D engineering drawing sheet containing the principal orthographic v
 ## PROCEDURE:
 
 ## STEP-1:
-    Launch Autodesk Fusion 360, navigate to the File menu, and select New Design to open a blank workspace.
+   Launch Autodesk Fusion 360, navigate to the File menu, and select New Design to open a blank workspace.
 ## STEP-2: 
-    Select Create Sketch on the XY plane, draw the slotted base flange and mounting lugs using Line, Circle, and Trim tools, and click Finish Sketch.
+   Select Create Sketch on the XY plane, draw the slotted base flange and mounting lugs using Line, Circle, and Trim tools, and click Finish Sketch.
 
     <img width="287" height="292" alt="image" src="https://github.com/user-attachments/assets/f966946b-d064-42ee-8b5a-5f178ab179c1" />
 
